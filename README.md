@@ -22,7 +22,8 @@ Deep learning-powered recommendation engine that analyzes user rating patterns a
 
 - Python
 - PyTorch (Deep Learning)
-- Pandas & NumPy
+- Pandas & Polars
+- NumPy
 - Scikit-learn
 - gradio
 - Google Colab
