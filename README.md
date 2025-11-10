@@ -4,6 +4,8 @@ Hybrid recommendation system combining collaborative filtering and content-based
 
 🔗 **[Open in Google Colab](https://colab.research.google.com/drive/1ObRPGZ2z7QCmVF2sYlpw2Sudfddbfry4?usp=sharing)**
 
+**Language Note:** Notebook content and documentation are in Portuguese (PT-BR).
+
 ## 🎯 Overview
 
 Deep learning-powered recommendation engine that analyzes user rating patterns and book characteristics to generate accurate and diverse book suggestions. Built with PyTorch, the system leverages neural collaborative filtering for personalized recommendations.
