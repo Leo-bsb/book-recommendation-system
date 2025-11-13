@@ -1,10 +1,10 @@
 # Intelligent Book Recommendation System
 
 Hybrid recommendation system combining collaborative filtering and content-based techniques to suggest personalized book recommendations using deep learning.
-
+🔗 **[Open Website](https://huggingface.co/spaces/leo-bsb/book-recomendation)**
 🔗 **[Open in Google Colab](https://colab.research.google.com/drive/1ObRPGZ2z7QCmVF2sYlpw2Sudfddbfry4?usp=sharing)**
 
-**Language Note:** Notebook content and documentation are in Portuguese (PT-BR).
+**Language Note:** Website and notebook content and documentation are in Portuguese (PT-BR).
 
 ## 🎯 Overview
 
